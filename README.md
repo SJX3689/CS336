@@ -1,4 +1,4 @@
-CS336 LLM Basics
+# CS336 LLM Basics
 
 This repository provides a compact decoder-only LLM implementation for small-scale experiments. It includes byte-level BPE, a Transformer language model, training and evaluation loops, loss functions, an optimizer, learning-rate scheduling, gradient clipping, and checkpointing. Dataset loading is intentionally left to the caller.
 
